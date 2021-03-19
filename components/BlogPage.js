@@ -21,7 +21,7 @@ export default function BlogPage({title, subtitle, image, author, date}) {
                             width="50px"
                             alt="avatar"/>
                         {author?.name}
-                        {', '} {date}
+                        {/* {', '} {date} */}
                         </p>
                     </div>
                     
