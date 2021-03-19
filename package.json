@@ -25,5 +25,8 @@
     "react-reveal": "^1.2.2",
     "react-transition-group": "^4.4.1",
     "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
   }
 }
